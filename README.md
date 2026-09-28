@@ -5,3 +5,5 @@ Create a prime_finder() function that takes in a number, n, and returns all the 
 
 Challenge described by Codecademy 
 Completed by Mara Brandsen from scratch, no AI usage
+
+Tested and approved by Codecademy 
